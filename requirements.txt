@@ -2,6 +2,7 @@ ucimlrepo
 numpy
 pandas
 matplotlib
+seaborn
 ipykernel
 scikit-learn
 scipy

@@ -1,1 +1,2 @@
-.finalenv/
+.venv/
+.ipynb_checkpoints/

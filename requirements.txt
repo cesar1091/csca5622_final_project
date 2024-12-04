@@ -7,3 +7,6 @@ ipykernel
 scikit-learn
 scipy
 statsmodels
+xgboost
+optuna
+nbconvert

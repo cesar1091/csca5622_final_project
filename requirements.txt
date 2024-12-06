@@ -10,3 +10,4 @@ statsmodels
 xgboost
 optuna
 nbconvert
+streamlit
